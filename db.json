@@ -1,0 +1,36 @@
+{
+  "toronto": [
+    { "name": "Art Gallery of Ontario", "type": "attraction" },
+    { "name": "Royal Ontario Museum", "type": "attraction" },
+    { "name": "CN Tower", "type": "attraction" },
+    { "name": "Ripley's Aquarium", "type": "attraction" },
+    { "name": "Roger's Center", "type": "attraction" },
+    { "name": "Casa Loma", "type": "attraction" },
+    { "name": "Centre Island", "type": "attraction" },
+    { "name": "Hockey Hall of Fame", "type": "attraction" },
+    { "name": "Kensington Market", "type": "attraction" },
+    { "name": "Hockey Hall of Fame", "type": "attraction" },
+
+    { "name": "Scaramouche", "type": "restaurant" },
+    { "name": "Momofuku", "type": "restauraunt" },
+    { "name": "PAI", "type": "restaurant" },
+    { "name": "Carousel Bakery", "type": "restaurant" },
+    { "name": "Burger's Priest", "type": "restaurant" },
+    { "name": "Hokkaido Ramen Palace", "type": "restaurant" },
+
+    { "name": "Toronto International Film Festival", "type": "festival" },
+    { "name": "Fan Expo", "type": "festival" },
+    { "name": "Canadian National Exhibition", "type": "festival" },
+    { "name": "Toronto Pride", "type": "festival" },
+    { "name": "Caribana Toronto", "type": "festival" },
+    { "name": "Taste of the Danforth", "type": "festival" },
+    { "name": "Nuit Blanche", "type": "festival" },
+    { "name": "Toronto Jazz Festival", "type": "festival" },
+    { "name": "Toronto Comic Arts Festival", "type": "festival" },
+
+    { "name": "Toronto Maple Leafs", "type": "sports" },
+    { "name": "Toronto Raptors", "type": "sports" },
+    { "name": "Toronto Blue Jays", "type": "sports" },
+    { "name": "Toronto Argonauts", "type": "sports" }
+  ]
+}
